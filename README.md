@@ -14,7 +14,7 @@ Ce projet est une application full-stack composée d'un backend en Node.js avec 
 Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone https://github.com/S-Ficarra/ia-gen-tp.git
 cd votre-repo
 ```
 
